@@ -1,0 +1,10 @@
+[safe]
+.txt
+.md
+.css
+.csv
+
+[possibly-unsafe]
+.html
+.js
+.*
